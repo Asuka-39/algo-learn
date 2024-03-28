@@ -2,7 +2,6 @@
 学习数据结构与算法的代码示例，目前提供 Java、Python、Go 支持（C++ 也慢慢开始了）。维护这个 Repository 的目的有两个：
 
 * 编程是一门实践的艺术，多多练习，多多思考，把这里列举的所有算法、数据结构，以及对应的常见 leetcode 习题都自己手敲几遍，增强自己的**编码基本功**，写出高质量的代码。
-
 * 同时也给刷题的朋友一些指导，面对 Leetcode 上千道题目，可能会觉得手足无措，想刷题但是又不知道从哪里开始。
 
 这里记录的是我自己的刷题过程，基本上都是一些 easy 和 medium 的题目，并且分类详细，你可以参考这个顺序，然后有针对性的去刷题。
@@ -10,7 +9,7 @@
 这些题目在面试中也是比较高频的，**应对大多数面试**已经是绰绰有余了。
 
 **Repo 逐步完善中，欢迎补充更多题目，以及贡献代码！**
-
+# Golang
 ## 数组
 
 * 实现一个动态扩容的数组【[Java](https://github.com/roseduan/algo-learn/blob/master/java/datastructure/array/GenericArray.java)、[Python](https://github.com/roseduan/algo-learn/blob/master/python/array/array.py)、[Go](https://github.com/roseduan/algo-learn/blob/master/go/array/array.go)】
